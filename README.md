@@ -38,5 +38,7 @@ pushing changes.
 \- GitHub
 
 \- Git Bash
+## New Update
 
+This change was made using a feature branch and will be merged through a Pull Request.
 
